@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: blue;
+  margin-left: 20px;
+} 
+
+
+#first{
+				color:red 
+} 
+
+#second{
+				color:black
+} 
+
+#third{
+				color:orange 
+} 
+#mydiv{
+				color:yellow
+} 
+
